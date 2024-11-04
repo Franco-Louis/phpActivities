@@ -68,9 +68,12 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
                 <input type="text" name="inputUserName" id="inputUserName" class="form-control mb-3" placeholder="User Name" required autofocus>
                 <input type="password" name="inputPassword" id="inputPassword" class="form-control mb-3" placeholder="Password" required>
-                <button class="btn btn-lg btn-primary btn-block btn-signin" type="submit" name="btnSignIn">Sign In</button>
+                <button class="btn btn-lg btn-primary btn-block btn-signin" type="submit" name="btnSignIn">Sign in</button>
             </form><!-- /form -->
         </div><!-- /card-container -->
     </div><!-- /container -->
+
+    <script type="text/javascript" src="js/jquery-3.7.1.js"></script>
+    <script type="text/javascript" src="js/bootstrap.js"></script>
 </body>
 </html>
