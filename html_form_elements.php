@@ -10,14 +10,10 @@
         <input type="" name="">
         <hr>
         <select name="drpPhones" size="5" multiple>
-            <option value="Apple">Apple</option>
-            <option value="Vivo">Vivo</option>
-            <option value="Samsung">Samsung</option>
-            <option value="ASUS">ASUS</option>
-            <option value="Realme">Realme</option>
-            <option value="Xiaomi">Xiaomi</option>
-            <option value="Oppo">Oppo</option>
-        </select>
+            <option value="BSIT">BSIT</option>
+            <option value="BSTM">BSTM</option>
+            <option value="BSHM">BSHM</option>
+            </select>
 
 
         <hr>
